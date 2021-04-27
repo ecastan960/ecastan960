@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software developer passionated about anime and all things technology, from robotics and artifitial intelligence to video games. Trained as a Mechanical engineer, I'm currently working on finishing my studies as a full stack engineer to begin a new career path.
+I'm a software developer passionate about anime and all things technology, from robotics and artificial intelligence to video games. Trained as a Mechanical engineer, I'm currently working on finishing my studies as a full-stack engineer to begin a new career path.
 
 - 🌱 I’m currently learning Flutter and React
 - 👯 I’m looking to collaborate on comercital projects
