@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Here are some of my stat's</h3>
+I'm a software developer passionated about all things technology, from robotics and artifitial intelligence to video games. Some of the technologies that I like and work with are Python, JavaScript, C. Trained as a Mechanical engineer, I'm currently working on finishing my studies as a full stack engineer to begin a new career path.
+
+Here are some of my stat's
 
 [![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecastan960&theme=dark&show_icons=true)
