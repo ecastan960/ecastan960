@@ -1,7 +1,7 @@
 ### Hello there, I'm Esteban, Welcome to my page :rocket:👋
 
 <p align="center">
-  <img width="460" height="460" src="/sources/laughing-man.gif">
+  <img width="230" height="230" src="/sources/laughing-man.gif">
 </p>
 
 <!--
