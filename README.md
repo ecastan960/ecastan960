@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software developer passionated about all things technology, from robotics and artifitial intelligence to video games. Some of the technologies that I like and work with are Python, JavaScript, C, MySql. Trained as a Mechanical engineer, I'm currently working on finishing my studies as a full stack engineer to begin a new career path.
+I'm a software developer passionated about all things technology, from robotics and artifitial intelligence to video games. Some of the technologies that I like and work with are Python, JavaScript, C, MySql and docker. Trained as a Mechanical engineer, I'm currently working on finishing my studies as a full stack engineer to begin a new career path.
 
 - 🌱 I’m currently learning Flutter and React
 - 👯 I’m looking to collaborate on comercital projects
-- 📫 How to reach me: <p><a href="https://twitter.com/EstebanCastaoZ1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+- 📫 How to reach me: <p><a href="https://twitter.com/EstebanCastaoZ1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ecastan1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://estebancastaoz1.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 Here are some of my stat's
