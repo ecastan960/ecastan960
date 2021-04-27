@@ -32,4 +32,4 @@ Some of the technologies that I like and work with are:
 
 Here are some of my stat's
 
-[![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecastan960&theme=dark&show_icons=true)
+![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecastan960&theme=dark&show_icons=true)
