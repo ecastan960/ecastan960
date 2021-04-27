@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software developer passionated about all things technology, from robotics and artifitial intelligence to video games. Some of the technologies that I like and work with are Python, JavaScript, C. Trained as a Mechanical engineer, I'm currently working on finishing my studies as a full stack engineer to begin a new career path.
+I'm a software developer passionated about all things technology, from robotics and artifitial intelligence to video games. Some of the technologies that I like and work with are Python, JavaScript and C. Trained as a Mechanical engineer, I'm currently working on finishing my studies as a full stack engineer to begin a new career path.
+
+🌱 I’m currently learning Flutter and React
+👯 I’m looking to collaborate on comercital projects
+📫 How to reach me: [Twitter](https://twitter.com/EstebanCastaoZ1)
 
 Here are some of my stat's
 
